@@ -1,0 +1,44 @@
+[
+    {
+        "image": "images/imagee1.jpeg",
+        "category": "earthernware",
+        "title": "Vibrant Earthernware",
+        "description": "Vibrant Earthenware Collection offers a stunning array of handcrafted ceramic artistry in vibrant hues and intricate designs.",
+        "buy":"Add to cart"
+    },
+    {
+        "image": "images/imagee2.jpeg",
+        "category": "earthernware",
+        "title": "Ethnic Earthernware",
+        "description": "An ethnic earthenware collection embodies the rich cultural heritage of diverse traditions inspired by various regions and customs.",
+        "buy":"Add to cart"
+    },
+    {
+        "image": "images/images1.jpeg",
+        "category": "stoneware",
+        "title": "Stoneware Dinner Bowls",
+        "description": "Hand Glazed Handcrafted Ceramic Stoneware Bowls combine artisanal craftsmanship and vibrant glazes for an elegant dining",
+        "buy":"Add to cart"
+    },
+    {
+        "image": "images/images2.jpeg",
+        "category": "stoneware",
+        "title": "Large stoneware ceramic mug",
+        "description": "These stoneware mugs offer a perfect blend of rustic charm and modern design, making your coffee or tea moments truly special experience.",
+        "buy":"Add to cart"
+    },
+    {
+        "image": "images/imagep1.jpeg",
+        "category": "parceloin",
+        "title": "Dresden porcelain mug",
+        "description": "Dresden porcelain mugs exemplify craftsmanship and timeless elegance, adding sophistication to beverage enjoyment.",
+        "buy":"Add to cart"
+    },
+    {
+        "image": "images/imagep2.jpg",
+        "category": "parceloin",
+        "title": "Meissen porcelain plates",
+        "description": "Meissen porcelain plates epitomize the pinnacle of European porcelain artistry, renowned for and historical significance.",
+        "buy":"Add to cart"
+    }
+]
